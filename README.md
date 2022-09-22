@@ -11,4 +11,7 @@
 5) git init
 
 6) git add
+
+7) A master, ou main, é a branch inicial, e normalmente a branch central do código, servindo de base para as demais.
+
  
