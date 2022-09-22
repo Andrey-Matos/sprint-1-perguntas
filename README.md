@@ -14,4 +14,6 @@
 
 7) A master, ou main, é a branch inicial, e normalmente a branch central do código, servindo de base para as demais.
 
+8) Para atualizar o repositório local é usado git pull origin main (ou master), para merge é usado git merge [branch]
+
  
