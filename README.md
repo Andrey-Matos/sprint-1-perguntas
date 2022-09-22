@@ -7,4 +7,7 @@
 3) O git é um sistema desenvolvido para facilitar o versionamento e gerenciamento de aplicações em geral.
 
 4) É a pessoa responsável por gerenciar o backlog do time e intermediar a relação com os objetivos do cliente.
+
+5) git init
+
  
