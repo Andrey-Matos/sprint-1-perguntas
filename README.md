@@ -18,4 +18,6 @@
 
 9) Git é somente o sistema de versionamento, enquanto o Github é um serviço que permite o armazenamento e gerenciamento dos repositórios criados com Git.
 
+10) PUT e PATCH
+
  
