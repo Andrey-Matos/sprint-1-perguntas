@@ -16,4 +16,6 @@
 
 8) Para atualizar o repositório local é usado git pull origin main (ou master), para merge é usado git merge [branch]
 
+9) Git é somente o sistema de versionamento, enquanto o Github é um serviço que permite o armazenamento e gerenciamento dos repositórios criados com Git.
+
  
