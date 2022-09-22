@@ -10,4 +10,5 @@
 
 5) git init
 
+6) git add
  
