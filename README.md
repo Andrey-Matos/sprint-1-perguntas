@@ -32,3 +32,5 @@
 
 16) Utilizando o comando "flutter create [nome_do_projeto]" em um terminal.
 
+17) Algumas IDEs, como android studio e intellij oferecem suporte ao flutter, também é possível utilizar um editor de texto de sua preferência, como o vscode.
+
