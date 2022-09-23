@@ -38,3 +38,5 @@
 
 19) Widgets de tipo stateless não possuem o gerenciamento de estados, ou seja, não podem ser mutados durante a execução, enquanto um widget stateful permite essa alteração dinâmica.
 
+20) Ele é utlizado para modificar o que um widget apresenta. Por exemplo, sem gerenciamento de estados não é possível criar um widget que mostra um número incrementando a cada clique em um botão. O gerenciamento de estados também permite guardar compartilhar eles entre diferentes telas no aplicativo.
+
