@@ -34,3 +34,4 @@
 
 17) Algumas IDEs, como android studio e intellij oferecem suporte ao flutter, também é possível utilizar um editor de texto de sua preferência, como o vscode.
 
+18) Uma final não pode ter seu valor modificado após a atribuição, enquanto em uma var isso é possível.
