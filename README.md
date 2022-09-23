@@ -26,4 +26,7 @@
 
 13) 1xx: respostas informativas, 2xx: sucesso, 3xx: redirecionamento, 4xx: erro de client, 5xx: erro de servidor
 
+14) Dart é uma linguagem desenvolvida pela google com objetivo de competir com JS na web, sendo adota depois em dispositivos móveis por meio do flutter.
+
+
  
