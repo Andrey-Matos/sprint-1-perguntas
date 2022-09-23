@@ -29,4 +29,6 @@
 14) Dart é uma linguagem desenvolvida pela google com objetivo de competir com JS na web, sendo adota depois em dispositivos móveis por meio do flutter.
 
 15) Flutter é um framework para dart utilizado para desenvolver aplicativos para dispositivos mobile.
- 
+
+16) Utilizando o comando "flutter create [nome_do_projeto]" em um terminal.
+
