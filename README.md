@@ -24,4 +24,6 @@
 
 12) 200, 202 ou 204
 
+13) 1xx: respostas informativas, 2xx: sucesso, 3xx: redirecionamento, 4xx: erro de client, 5xx: erro de servidor
+
  
