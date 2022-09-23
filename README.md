@@ -40,3 +40,4 @@
 
 20) Ele é utlizado para modificar o que um widget apresenta. Por exemplo, sem gerenciamento de estados não é possível criar um widget que mostra um número incrementando a cada clique em um botão. O gerenciamento de estados também permite guardar compartilhar eles entre diferentes telas no aplicativo.
 
+21) O initState é um método chamado na inicialização de um widget stateful, para inicializar as variáveis necessárias para a execução do build deste widget, por exemplo. O dispose serve para remover um widget da árvore.
